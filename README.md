@@ -1,10 +1,17 @@
 # E404 Kernel - Munch Alioth Apollo [MiKona] 
-Custom & RR (Riced and Robust) Kernel with latest Linux tag, Google ASB tag, and CodeLinaro tag. Compiled with Clang Full LTO + Polly + O3 + MLGO.
+Custom Kernel with latest Linux and ASB tag. Compiled with Clang Full LTO + Polly + O3 + MLGO.
+Cutting-Edge Kernel.
 
-Aims for Best Efficiency And Maximum Optimization.
+# Community, Project 113
+t.me/Projkt113
+t.me/Projkt113Disc
+t.me/Projkt113Dumps
 
-Supported Rom : AOSP, CLO, MIUI
+# Supported Rom
+AOSP, CLO, MIUI/HyperOS
 
 # Credits
-EmanuelCN0 and testers
+EmanuelCN0,
+Community,
+Members and Participants.
 
