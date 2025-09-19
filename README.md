@@ -1,10 +1,19 @@
-# E404 Kernel - Munch Alioth Apollo
-Custom Kernel with latest Linux and ASB tag.
-Compiled with Clang Full LTO + Polly + O3 + MLGO.
-Cutting-Edge Kernel.
+# E404 Kernel
+
+# Supported Device
+- Munch  (POCO F4 / REDMI K40S)
+- Alioth (POCO F3 / REDMI K30S)
+- Apollo (MI10T / MI10T PRO)
+- LMI (POCO F2 / REDMI K30 ZOOM)
 
 # Supported Rom
-AOSP, CLO, MIUI/HyperOS
+- AOSP/CLO
+- MIUI/HyperOS
+- Oplus (OOS, COS, MYUI, etc)
+
+# NOTES
+- A16 BPF ROMs is not supported !
+- Use SUSFS at Your Own Risk !
 
 # Credits
 EmanuelCN0,
