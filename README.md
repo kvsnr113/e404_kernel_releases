@@ -1,5 +1,5 @@
 # E404 Kernel
--[ Download & Changlogs]([url](https://github.com/kvsnr113/e404_kernel_releases/releases))
+- [Download & Changelogs]([url](https://github.com/kvsnr113/e404_kernel_releases/releases))
 
 # Supported Device
 - Munch  (POCO F4 / REDMI K40S)
