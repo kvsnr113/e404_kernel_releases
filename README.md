@@ -1,4 +1,5 @@
 # E404 Kernel
+- Download & Chnagelogs
 
 # Supported Device
 - Munch  (POCO F4 / REDMI K40S)
