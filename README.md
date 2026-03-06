@@ -5,7 +5,7 @@
 ---
 
 <h2 align="center">
-  <a href="https://github.com/kvsnr113/e404_kernel_releases/releases"> Download & Changelogs </a>
+  <a href="https://www.pling.com/p/2331359/"> Download Kernel (HERE) </a>
 </h2>
 
 ---
@@ -23,6 +23,9 @@
   </a>
   <a href="https://github.com/kvsnr113/xiaomi_sm8250_kernel">
     <img src="https://img.shields.io/badge/Source-Kernel-green?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.pling.com/p/2331359/">
+    <img src="https://img.shields.io/badge/Pling-Download-orange?style=for-the-badge">
   </a>
 </p>
 
@@ -45,7 +48,7 @@
 
 ## 🙏 Credits
 - EmanuelCN0  
-- Community contributors  
+- Community contributors & Donators
 - All testers & participants  
 
 ---
@@ -81,6 +84,4 @@ Maintaining this project takes time and effort. If you’d like to support devel
   </a>
 </p>
 
-- **PayPal:** [@rysie113](https://www.paypal.me/rysie113)  
-- **BTC:** `2odAmmDjDUmTzwyPPaUm2Lxxhhof1EX4sCbd6KgC4e4z`  
-- **ETH (ERC-20):** `0xD3267f393dDBD7eb0e9E4669166323A326051A41`
+- **PayPal:** [@rysie113](https://www.paypal.me/rysie113)
