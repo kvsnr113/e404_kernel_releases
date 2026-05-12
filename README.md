@@ -5,7 +5,8 @@
 ---
 
 <h2 align="center">
-  <a href="https://www.pling.com/p/2331359/"> Download Kernel (HERE) </a>
+  <a href="https://www.pling.com/p/2331359/"> Download Kernel (Pling) </a>
+  <a href="https://www.pling.com/p/2331359/"> Download Kernel (GitHub) </a>
 </h2>
 
 ---
