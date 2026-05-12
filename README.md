@@ -6,7 +6,12 @@
 
 <h2 align="center">
   <a href="https://www.pling.com/p/2331359/"> Download Kernel (Pling) </a>
-  <a href="https://www.pling.com/p/2331359/"> Download Kernel (GitHub) </a>
+</h2>
+
+---
+
+<h2 align="center">
+  <a href="https://github.com/kvsnr113/e404_kernel_releases/releases"> Download Kernel (GitHub) </a>
 </h2>
 
 ---
