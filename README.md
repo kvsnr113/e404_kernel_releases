@@ -41,7 +41,8 @@
 - **Munch** — POCO F4 / Redmi K40S  
 - **Alioth** — POCO F3 / Redmi K30S  
 - **Apollo** — Mi 10T / Mi 10T Pro  
-- **LMI** — POCO F2 Pro / Redmi K30 Zoom  
+- **LMI** — POCO F2 Pro / Redmi K30 Zoom
+- **Pipa** — Mi Pad 6 
 
 ---
 
